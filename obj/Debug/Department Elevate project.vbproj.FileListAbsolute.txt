@@ -1,0 +1,43 @@
+E:\Project dept. of Comp. Sc\Department Elevate project\Department Elevate project\Department Elevate project\bin\Debug\Department Elevate project.exe.config
+E:\Project dept. of Comp. Sc\Department Elevate project\Department Elevate project\Department Elevate project\obj\Debug\Department Elevate project.vbprojResolveAssemblyReference.cache
+E:\Project dept. of Comp. Sc\Department Elevate project\Department Elevate project\Department Elevate project\obj\Debug\Department_Elevate_project.Form1.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\Department Elevate project\Department Elevate project\obj\Debug\Department_Elevate_project.Resources.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\Department Elevate project\Department Elevate project\obj\Debug\Department Elevate project.vbproj.GenerateResource.Cache
+E:\Project dept. of Comp. Sc\Department Elevate project\bin\Debug\Department Elevate project.exe
+E:\Project dept. of Comp. Sc\Department Elevate project\bin\Debug\Department Elevate project.pdb
+E:\Project dept. of Comp. Sc\Department Elevate project\bin\Debug\Department Elevate project.xml
+E:\Project dept. of Comp. Sc\Department Elevate project\bin\Debug\adodb.dll
+E:\Project dept. of Comp. Sc\Department Elevate project\bin\Debug\MySql.Data.dll
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department Elevate project.vbproj.ResolveComReference.cache
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.Activity.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.Attended.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.Awards.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.BBA.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.BCA.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.Bcom.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.BSc.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.CourseDetails.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.Login.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.HomePage.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.Resources.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.PaperPublication.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.Registeration.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.studentregister.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.subjecthandling.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department Elevate project.vbproj.GenerateResource.Cache
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department Elevate project.exe
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department Elevate project.xml
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department Elevate project.pdb
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department Elevate project.vbprojResolveAssemblyReference.cache
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.About_us.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.Organise.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.Minutes.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.Placements.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Interop.AcroPDFLib.dll
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Project dept. of Comp. Sc\Department Elevate project\bin\Debug\Interop.AcroPDFLib.dll
+E:\Project dept. of Comp. Sc\Department Elevate project\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.NAAC.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.aboutdept.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.facultynext.resources
+E:\Project dept. of Comp. Sc\Department Elevate project\obj\Debug\Department_Elevate_project.studentnext.resources
